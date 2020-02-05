@@ -1,0 +1,2 @@
+# BMIcalc
+Calculates BMI
